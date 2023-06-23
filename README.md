@@ -6,5 +6,7 @@ Admin can add user and remove and edit the user info
 ![adduser-edit-removeuser](https://github.com/amit3075/InventorySystemPHP/assets/54049938/c0e888e3-d192-4bae-acec-614878719018)
 Inset the inventory Product deatils with image
 ![insertproduct-categories](https://github.com/amit3075/InventorySystemPHP/assets/54049938/557d0829-3a65-4cc3-835d-233a93171ceb)
+Display the product 
+![display-and -edit](https://github.com/amit3075/InventorySystemPHP/assets/54049938/c8684c43-e3d5-4146-addf-c0cfd6365ba5)
 
 
